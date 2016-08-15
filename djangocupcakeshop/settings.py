@@ -36,7 +36,7 @@ else:
 if DEBUG:
     ALLOWED_HOSTS = ['*']
 else:
-    ALLOWED_HOSTS = ['djangocupcakeshop.pythonanywhere.com']
+    ALLOWED_HOSTS = ['cosmicboy.pythonanywhere.com']
 
 
 # Application definition
